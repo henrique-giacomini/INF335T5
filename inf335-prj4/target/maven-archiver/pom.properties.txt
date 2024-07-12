@@ -1,0 +1,4 @@
+#Created by Apache Maven 3.8.1
+groupId=vr.unicamp.ic.inf335.app
+artifactId=inf335-prj4
+version=0.0.1-SNAPSHOT
